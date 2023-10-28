@@ -1,6 +1,4 @@
 # Data-Visualization-and-Data-Communication
-# Data Visualization: Storytelling
-
 ![data_story3_sq-1](https://github.com/Art1star/Data_Visualization_Story_Telling/assets/70962598/c44e7c77-6134-432c-add6-1bf5a4ca17e7)
 
 This repository is dedicated to the art of data visualization and data storytelling. In today's data-driven world, effectively conveying information through compelling visualizations and narratives is essential. Whether you are a data scientist, analyst, or anyone interested in making data more accessible and insightful, this repository provides resources and examples to help you master the craft of data storytelling.
